@@ -1,2 +1,2 @@
 
-　　<script>window.location.href='https://www.baidu.com/';</script>
+　　<script>window.location.href='https://www.json.cn';</script>
